@@ -1,0 +1,6 @@
+{
+  "name": "Friend Locator",
+  "description": "Finds modern Google Maps friends sharing locations with you, tracks your GPS, and calculates distances and driving directions to meet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
